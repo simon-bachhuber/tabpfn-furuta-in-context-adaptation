@@ -1,0 +1,514 @@
+[
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.8,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.1500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.7000000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.75,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.1,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.6,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.1,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.1500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 0.8500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.35,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.1500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.1500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.2000000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.7,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.6500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 0.8,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.2000000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.25,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.6,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.3,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 3.25,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.4500000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.85,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.6,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 0.8500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.9000000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.5500000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.25,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.5,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.6500000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.05,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.2,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.5,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.5500000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.4500000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.4000000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.0500000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.55,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.5,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.4500000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 1.05,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 0.7000000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 0.7000000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.4500000000000002,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.3000000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.5,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.25,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.4000000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.01,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.4000000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 4.65,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.35,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.6500000000000004,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 3.8000000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 7.300000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.1,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 2.1,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": 1.0,
+  "ok": true,
+  "swing_s": 3.5,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.8000000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 3.45,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 2.6,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 5.300000000000001,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 7.4,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 3.3000000000000003,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 4.7,
+  "held": 1.0
+ },
+ {
+  "Lp": 0.4,
+  "m_tip": 0.05,
+  "sign": -1.0,
+  "ok": true,
+  "swing_s": 1.6,
+  "held": 1.0
+ }
+]

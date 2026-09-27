@@ -1,0 +1,31 @@
+[project]
+name = "tabpfn-control"
+version = "1.0.0"
+description = "A frozen TabPFN-3.5 table as an adaptive feedback controller for a Furuta pendulum"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Apache-2.0" }
+dependencies = [
+  "numpy>=1.26",
+  "torch>=2.4",
+  "tabpfn>=9.0",
+  "mujoco>=3.2",
+  "scipy>=1.12",
+  "matplotlib>=3.8",
+  "pillow>=10.0",
+]
+
+[project.optional-dependencies]
+web = ["mjviser", "viser>=0.2"]     # browser demo: python scripts/demo.py --web
+video = ["imageio[ffmpeg]>=2.34"]   # mp4 recording: python scripts/demo.py --record media/demo.mp4
+dev = ["pytest>=8.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tabpfn_control"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
